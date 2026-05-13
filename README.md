@@ -6,6 +6,11 @@ This project uses the
 [gtest framework](http://google.github.io/googletest/reference/assertions.html)
 to test functionality.
 
+Pre-requisites:
+
+- [Download JDK](https://www.oracle.com/java/technologies/downloads/#jdk26-windows)
+- [Download Maven](https://maven.apache.org/download.cgi#CurrentMaven)
+
 ## Pass the tests
 
 The code is not complete and doesn't even compile.
